@@ -1,0 +1,1 @@
+{"Name":"nhibernate","Version":"2.1","Files":[{"Name":"NHibernate.dll"}],"Dependencies":[{"Name":"log4net", "Version":"1.2.10"}]}
